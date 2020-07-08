@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    /*box-sizing: border-box;*/
+}
+
+.el-main {
+    position: relative;
+    margin: auto;
+    max-width: 1600px;
+}
+
+/*.el-card > h1, h2, h3, h4 {*/
+/*  margin: 0 0 10px;*/
+/*  padding: 0 0 10px;*/
+
+/*}*/
+
+.el-footer {
+    text-align: center;
+    color: #fff;
+    font-size: 33px;
+    background-color: #282c34;
+}
+
+.el-row .el-card {
+    margin: 0 0 20px;
+}
+
+.info-text {
+    font-size: .85em;
+    color: #999;
+    font-family: Arial, sans-serif;
+    line-height: 190%;
+}
