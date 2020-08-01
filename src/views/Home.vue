@@ -2,8 +2,6 @@
   <div class="home">
     <!--    <Toplink/>-->
     <Cover/>
-
-    <el-footer>Footer</el-footer>
   </div>
 </template>
 
